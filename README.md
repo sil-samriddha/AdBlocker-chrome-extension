@@ -13,7 +13,7 @@ This extension blocks ads on websites to improve user experience.
 <ul>
   <li>Download this repo as a ZIP.</li>
   <li>Unzip the file.</li>
-  <li>Go to the extensions page (chrome://extensions).</li>
+  <li>Go to <a herf="chrome://extensions" target="_blank">chrome://extensions</a></li>
   <li>Enable Developer Mode.</li>
   <li>Load Unpacked by selecting the folder where you extracted the Zip</li>
   <li>Turn the extension on</li>
